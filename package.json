@@ -1,0 +1,12 @@
+{
+    "name": "defined",
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-jshint": "~0.6.2"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
